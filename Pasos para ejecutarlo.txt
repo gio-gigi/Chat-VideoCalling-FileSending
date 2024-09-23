@@ -1,0 +1,4 @@
+Para que el proyecto funcione correctamente se deben importar las librerías que
+se adjuntan en la entrega en la carpeta librerías.
+
+Para ejecutar solo hay que ejecutar la clase Main, los servidores para el envió de mensajes y envió de archivos hay que ejecutar MainServidorTCP, en cuanto a la videollamada seria el MainServidorUDP.
